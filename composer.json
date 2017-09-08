@@ -1,0 +1,17 @@
+{
+    "name": "claas/test-techniques-sujet-1",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Claas Augner",
+            "email": "github@caugner.de"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^6.3"
+    },
+    "autoload": {
+        "psr-4": {"": "src/"}
+    }
+}
